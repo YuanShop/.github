@@ -114,7 +114,7 @@ Issue/Discussions：随时提
 
 📈 统计
 
-[https://visitor-badge.laobi.icu/badge?page_id=YuanShop]
+[[https://visitor-badge.laobi.icu/badge?page_id=YuanShop]](https://visitor-badge.laobi.icu/badge?page_id=YuanShop)
 
 [https://img.shields.io/github/stars/YuanShop/mall-gateway?style=social]
 
