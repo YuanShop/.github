@@ -116,6 +116,8 @@ Issue/Discussions：随时提
 
 https://visitor-badge.laobi.icu/badge?page_id=YuanShop
 
-https://img.shields.io/github/stars/YuanShop/mall-gateway?style=social https://img.shields.io/github/forks/YuanShop/mall-gateway?style=social
+https://img.shields.io/github/stars/YuanShop/mall-gateway?style=social
+
+https://img.shields.io/github/forks/YuanShop/mall-gateway?style=social
 
 如果对你有帮助，记得 ⭐ Star  &  👀 Follow 哦！
