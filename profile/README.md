@@ -1,6 +1,6 @@
-# 🛍️ YuanShop · 微服务电商学习套件
+# 🛍️ YuanShop · 微服务电商学习项目
 
-&gt; 一个为 **Java 学习者** 打造的云原生电商脚手架，  
+&gt; 一个 **Java 学习者** 打造的云原生电商平台，  
 &gt; 用 **Spring Cloud** 拆服务，用 **Docker** 一键起飞，用 **GitHub Actions** 自动交付。  
 &gt; *Learning by Building, Ship on Day 30.*
 
