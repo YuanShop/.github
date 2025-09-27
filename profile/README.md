@@ -25,14 +25,14 @@
 | Repo | 简介 |
 |------|------|
 | [yuanshop-gateway](https://github.com/YuanShop/yuanshop-gateway) | 统一网关 + 全局鉴权 |
-| [mall-user-service](https://github.com/YuanShop/mall-user-service) | 用户注册/登录/JWT |
-| [mall-product-service](https://github.com/YuanShop/mall-product-service) | 商品 & SKU |
-| [mall-stock-service](https://github.com/YuanShop/mall-stock-service) | 库存预扣 & 解锁 |
-| [mall-order-service](https://github.com/YuanShop/mall-order-service) | 订单生命周期 |
-| [mall-search-service](https://github.com/YuanShop/mall-search-service) | ES 商品搜索 |
-| [mall-front](https://github.com/YuanShop/mall-front) | Vue3 管理后台 |
-| [mall-docker](https://github.com/YuanShop/mall-docker) | 一键 `docker-compose up` 脚本与监控配置 |
-| [mall-common](https://github.com/YuanShop/mall-common) | 公共工具、统一响应、雪花 ID |
+| [yuanshop-user-service](https://github.com/YuanShop/yuanshop-user-service) | 用户注册/登录/JWT |
+| [yuanshop-product-service](https://github.com/YuanShop/yuanshop-product-service) | 商品 & SKU |
+| [yuanshop-stock-service](https://github.com/YuanShop/yuanshop-stock-service) | 库存预扣 & 解锁 |
+| [yuanshop-order-service](https://github.com/YuanShop/yuanshop-order-service) | 订单生命周期 |
+| [yuanshop-search-service](https://github.com/YuanShop/yuanshop-search-service) | ES 商品搜索 |
+| [yuanshop-front](https://github.com/YuanShop/yuanshop-front) | Vue3 管理后台 |
+| [yuanshop-docker](https://github.com/YuanShop/yuanshop-docker) | 一键 `docker-compose up` 脚本与监控配置 |
+| [yuanshop-common](https://github.com/YuanShop/yuanshop-common) | 公共工具、统一响应、雪花 ID |
 
 &gt; 🔍 更多子项目陆续上线，Follow 不迷路！
 
