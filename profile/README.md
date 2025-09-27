@@ -95,20 +95,15 @@ https://raw.githubusercontent.com/YuanShop/mall-docker/main/docs/arch.svg
 
 🤝 贡献
 
-Fork 任意仓库
-
-新建 feat/xxx 分支
-
-提交 PR，CI 自动检查
-
-等待 Review & Merge
+&gt; Fork 任意仓库
+&gt; 新建 feat/xxx 分支
+&gt; 提交 PR，CI 自动检查
+&gt; 等待 Review & Merge
 
 💬 联系我
 
-Issue/Discussions：随时提
+&gt; Issue/Discussions：随时提
+&gt; 邮箱：3205518128@qq.com
+&gt; 个人主页：[https://github.com/huangyuan](https://github.com/HuangYuan1024)
 
-邮箱：3205518128@qq.com
-
-个人主页：[https://github.com/huangyuan](https://github.com/HuangYuan1024)
-
-如果对你有帮助，记得 ⭐ Star  &  👀 Follow 哦！
+## 如果对你有帮助，记得 ⭐ Star  &  👀 Follow 哦！
