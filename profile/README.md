@@ -28,7 +28,7 @@
 | [yuanshop-user-service](https://github.com/YuanShop/yuanshop-user-service) | 用户注册/登录/JWT |
 | [yuanshop-product-service](https://github.com/YuanShop/yuanshop-product-service) | 商品 & SKU |
 | [yuanshop-stock-service](https://github.com/YuanShop/yuanshop-stock-service) | 库存预扣 & 解锁 |
-| [yuanshop-order-service](https://github.com/YuanShop/yuanshop-order-service) | 订单生命周期 |
+| [yuanshop-order-service](https://github.com/YuanShop/yuanshop-order-service) | 订单 |
 | [yuanshop-cart-service](https://github.com/YuanShop/yuanshop-cart-service) | 购物车 |
 | [yuanshop-seckill-service](https://github.com/YuanShop/yuanshop-seckill-service) | 秒杀 |
 | [yuanshop-search-service](https://github.com/YuanShop/yuanshop-search-service) | ES 商品搜索 |
