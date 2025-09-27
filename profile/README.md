@@ -56,6 +56,7 @@ mysql -uroot -p &lt; sql/init_all_schema.sql
 # 5. 启动前端
 cd ../mall-front && npm i && npm run dev
 # 浏览器访问 http://localhost:5173
+```
 
 ---
 
