@@ -63,7 +63,9 @@ cd ../mall-front && npm i && npm run dev
 📊 架构图
 <!-- 用 draw.io 导出 SVG，放到 mall-docker/docs/arch.svg -->
 https://raw.githubusercontent.com/YuanShop/mall-docker/main/docs/arch.svg
+
 🌟 亮点
+
 ✅ DDD 严格分库 —— 0 跨库 JOIN，拒绝分布式单体
 
 ✅ 最终一致性 —— 本地消息表 + RabbitMQ，订单库存对账
