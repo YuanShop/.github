@@ -79,23 +79,43 @@ https://raw.githubusercontent.com/YuanShop/mall-docker/main/docs/arch.svg
 ✅ K8s 就绪 —— /k8s 目录含 Helm 模板，可无缝迁云
 
 📌 RoadMap
+
 [x] MVP：注册/登录/商品/下单/库存
+
 [x] Docker Compose 一键启动
+
 [x] SkyWalking + Prometheus 监控
+
 [ ] 分库分表（ShardingSphere）
+
 [ ] 支付中心（支付宝沙箱）
+
 [ ] 秒杀 & 消息削峰（Sentinel + RocketMQ）
+
 [ ] Helm 发布到 Kubernetes
+
 🤝 贡献
+
 Fork 任意仓库
+
 新建 feat/xxx 分支
+
 提交 PR，CI 自动检查
+
 等待 Review & Merge
+
 💬 联系我
+
 Issue/Discussions：随时提
-邮箱：huangyuan@example.com
-个人主页：https://github.com/huangyuan
+
+邮箱：3205518128@qq.com
+
+个人主页：[https://github.com/huangyuan](https://github.com/HuangYuan1024)
+
 📈 统计
+
 https://visitor-badge.laobi.icu/badge?page_id=YuanShop
+
 https://img.shields.io/github/stars/YuanShop/mall-gateway?style=social https://img.shields.io/github/forks/YuanShop/mall-gateway?style=social
+
 如果对你有帮助，记得 ⭐ Star  &  👀 Follow 哦！
