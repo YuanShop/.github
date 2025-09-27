@@ -65,11 +65,17 @@ cd ../mall-front && npm i && npm run dev
 https://raw.githubusercontent.com/YuanShop/mall-docker/main/docs/arch.svg
 🌟 亮点
 ✅ DDD 严格分库 —— 0 跨库 JOIN，拒绝分布式单体
+
 ✅ 最终一致性 —— 本地消息表 + RabbitMQ，订单库存对账
+
 ✅ 横向越权防护 —— Gateway 统一验 JWT，下游只认 X-Auth-User
+
 ✅ 全链路观测 —— SkyWalking TraceId 贯穿 5 个服务
+
 ✅ GitHub Actions 自动交付 —— Push 即构建镜像并推送 GHCR
+
 ✅ K8s 就绪 —— /k8s 目录含 Helm 模板，可无缝迁云
+
 📌 RoadMap
 [x] MVP：注册/登录/商品/下单/库存
 [x] Docker Compose 一键启动
