@@ -29,6 +29,8 @@
 | [yuanshop-product-service](https://github.com/YuanShop/yuanshop-product-service) | 商品 & SKU |
 | [yuanshop-stock-service](https://github.com/YuanShop/yuanshop-stock-service) | 库存预扣 & 解锁 |
 | [yuanshop-order-service](https://github.com/YuanShop/yuanshop-order-service) | 订单生命周期 |
+| [yuanshop-cart-service](https://github.com/YuanShop/yuanshop-cart-service) | 购物车 |
+| [yuanshop-seckill-service](https://github.com/YuanShop/yuanshop-seckill-service) | 秒杀 |
 | [yuanshop-search-service](https://github.com/YuanShop/yuanshop-search-service) | ES 商品搜索 |
 | [yuanshop-front](https://github.com/YuanShop/yuanshop-front) | Vue3 管理后台 |
 | [yuanshop-docker](https://github.com/YuanShop/yuanshop-docker) | 一键 `docker-compose up` 脚本与监控配置 |
