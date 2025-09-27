@@ -25,7 +25,7 @@
 ## 🧩 组织仓库一览
 | Repo | 简介 |
 |------|------|
-| [mall-gateway](https://github.com/YuanShop/mall-gateway) | 统一网关 + 全局鉴权 |
+| [yuanshop-gateway](https://github.com/YuanShop/yuanshop-gateway) | 统一网关 + 全局鉴权 |
 | [mall-user-service](https://github.com/YuanShop/mall-user-service) | 用户注册/登录/JWT |
 | [mall-product-service](https://github.com/YuanShop/mall-product-service) | 商品 & SKU |
 | [mall-stock-service](https://github.com/YuanShop/mall-stock-service) | 库存预扣 & 解锁 |
