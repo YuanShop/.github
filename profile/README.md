@@ -9,9 +9,9 @@
 | Topic | Tech |
 |-------|------|
 | 网关 & 安全 | Spring Cloud Gateway + JWT |
-| 注册/配置 | Nacos 2.3 |
-| 微服务 | Spring Boot 3.2 + OpenFeign |
-| 数据 | MySQL 8（独立 schema）+ Redis + MyBatis-Plus |
+| 注册/配置 | Nacos 3.3 |
+| 微服务 | Spring Boot 3.3.4 + Dubbo 3 |
+| 数据 | MySQL 9.1（独立 schema）+ Redis 7.2 + MyBatis-Plus 3.5.5 |
 | 消息 | RabbitMQ |
 | 搜索 | Elasticsearch |
 | 监控 | SkyWalking + Prometheus + Grafana |
