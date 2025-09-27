@@ -61,49 +61,29 @@ cd ../mall-front && npm i && npm run dev
 
 📊 架构图
 <!-- 用 draw.io 导出 SVG，放到 mall-docker/docs/arch.svg -->
-https://raw.githubusercontent.com/YuanShop/mall-docker/main/docs/arch.svg
-
-🌟 亮点
-
-✅ DDD 严格分库 —— 0 跨库 JOIN，拒绝分布式单体
-
-✅ 最终一致性 —— 本地消息表 + RabbitMQ，订单库存对账
-
-✅ 横向越权防护 —— Gateway 统一验 JWT，下游只认 X-Auth-User
-
-✅ 全链路观测 —— SkyWalking TraceId 贯穿 5 个服务
-
-✅ GitHub Actions 自动交付 —— Push 即构建镜像并推送 GHCR
-
-✅ K8s 就绪 —— /k8s 目录含 Helm 模板，可无缝迁云
-
-📌 RoadMap
-
-[x] MVP：注册/登录/商品/下单/库存
-
-[x] Docker Compose 一键启动
-
-[x] SkyWalking + Prometheus 监控
-
-[ ] 分库分表（ShardingSphere）
-
-[ ] 支付中心（支付宝沙箱）
-
-[ ] 秒杀 & 消息削峰（Sentinel + RocketMQ）
-
-[ ] Helm 发布到 Kubernetes
-
-🤝 贡献
-
-&gt; Fork 任意仓库
-&gt; 新建 feat/xxx 分支
-&gt; 提交 PR，CI 自动检查
-&gt; 等待 Review & Merge
-
-💬 联系我
-
-&gt; Issue/Discussions：随时提
-&gt; 邮箱：3205518128@qq.com
-&gt; 个人主页：[https://github.com/huangyuan](https://github.com/HuangYuan1024)
-
-## 如果对你有帮助，记得 ⭐ Star  &  👀 Follow 哦！
+https://raw.githubusercontent.com/YuanShop/mall-docker/main/docs/arch.svg  
+🌟 亮点  
+✅ DDD 严格分库 —— 0 跨库 JOIN，拒绝分布式单体  
+✅ 最终一致性 —— 本地消息表 + RabbitMQ，订单库存对账  
+✅ 横向越权防护 —— Gateway 统一验 JWT，下游只认 X-Auth-User  
+✅ 全链路观测 —— SkyWalking TraceId 贯穿 5 个服务  
+✅ GitHub Actions 自动交付 —— Push 即构建镜像并推送 GHCR  
+✅ K8s 就绪 —— /k8s 目录含 Helm 模板，可无缝迁云  
+📌 RoadMap  
+[x] MVP：注册/登录/商品/下单/库存  
+[x] Docker Compose 一键启动  
+[x] SkyWalking + Prometheus 监控  
+[ ] 分库分表（ShardingSphere）  
+[ ] 支付中心（支付宝沙箱）  
+[ ] 秒杀 & 消息削峰（Sentinel + RocketMQ）  
+[ ] Helm 发布到 Kubernetes  
+🤝 贡献  
+&gt; Fork 任意仓库  
+&gt; 新建 feat/xxx 分支  
+&gt; 提交 PR，CI 自动检查  
+&gt; 等待 Review & Merge  
+💬 联系我  
+&gt; Issue/Discussions：随时提  
+&gt; 邮箱：3205518128@qq.com  
+&gt; 个人主页：[https://github.com/huangyuan](https://github.com/HuangYuan1024)  
+## 如果对你有帮助，记得 ⭐ Star  &  👀 Follow 哦！  
