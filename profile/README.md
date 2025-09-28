@@ -11,8 +11,8 @@
 | 网关 & 安全 | Higress 2.0.4 + JWT |
 | 注册/配置 | Nacos 3.3 |
 | 微服务 | Spring Boot 3.3.4 + Dubbo 3.3 Triple + Spring Security 6.3.3 + OAuth2.1 |
-| 数据 | MySQL 9.1（独立 schema）+ KeyDB 6.3.0 + MyBatis-Plus 3.5.5 |
-| 消息 | Kafka 3.8.1 |
+| 数据库 | MySQL 9.1（独立 schema）+ KeyDB 6.3.0 + MyBatis-Plus 3.5.5 |
+| 消息队列 | Kafka 3.8.1 |
 | 搜索 | Elasticsearch 8.15.0 |
 | 监控 | Grafana Tempo 2.6.0 + OpenTelemetry Java Agent 2.8.0 + Prometheus 2.54.1 + Grafana 11.2.0 |
 | 部署 | DevPod 0.5.16 & Kubernetes 1.30.4 就绪 |
